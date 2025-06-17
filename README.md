@@ -73,7 +73,7 @@ assert(totalCollateralValueInUsd >= totalDscMinted);
 
 ### Installation & Testing
 ```bash
-git clone https://github.com/YOUR_USERNAME/foundry-defi-stablecoin
+git clone https://github.com/ryanfro7/foundry-defi-stablecoin
 cd foundry-defi-stablecoin
 forge install
 forge test
